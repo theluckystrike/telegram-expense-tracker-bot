@@ -1,5 +1,6 @@
 {
   "name": "budget-bot",
+  "repository": {"type": "git", "url": "theluckystrike/telegram-expense-tracker-bot.git"},
   "private": true,
   "type": "module",
   "scripts": {
